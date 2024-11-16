@@ -1,0 +1,837 @@
+[2024-11-14 19:06:24.360] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:06:24.953] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:06:24.955] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:06:26.458] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 19:06:26.692] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 19:06:27.131] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, build: null
+[2024-11-14 19:06:27.156] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 19:06:27.376] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 19:06:27.377] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:06:38.866] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 19:06:39.335] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:06:39.339] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:06:39.516] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:06:39.852] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 19:06:39.870] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 19:06:47.200] [info]  [RPCServer:WSS] Socket Message: 3 [object Object]
+[2024-11-14 19:06:47.210] [info]  [RPCServer:WSS] Socket Emit: 3 [object Object]
+[2024-11-14 19:06:47.464] [info]  [Flux] Dispatching LOGIN
+[2024-11-14 19:06:47.548] [info]  [LoginQRSocket] [0ms] connecting to wss://remote-auth-gateway.discord.gg/?v=2
+[2024-11-14 19:06:47.559] [info]  [Flux] Dispatching LOGIN_SUCCESS
+[2024-11-14 19:06:47.609] [info]  [Routing/Utils] transitionTo - Transitioning to /app
+[2024-11-14 19:06:47.645] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 19:06:47.650] [info]  [LoginQRSocket] [104ms] cleaning up
+[2024-11-14 19:06:48.088] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 445 ms
+[2024-11-14 19:06:48.782] [info]  [GatewaySocket] [READY] took 1137ms, as 1da075fc3fa8fc3289ace36789aecc2f
+[2024-11-14 19:06:48.851] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 19:06:48.905] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 19:06:48.935] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 19:06:49.059] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 1416ms
+[2024-11-14 19:06:49.719] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 19:06:50.564] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:06:52.163] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=1' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 19:06:52.176] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 19:06:56.211] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Updating userContent with delay 0
+[2024-11-14 19:06:56.223] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Scheduling save from markDirty
+[2024-11-14 19:06:56.239] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Persisting proto
+[2024-11-14 19:07:51.542] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:07:52.136] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 19:07:52.552] [info]  [FAST CONNECT] connected in 414ms
+[2024-11-14 19:07:53.323] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 19:07:53.481] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 19:07:53.651] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 19:07:55.001] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 19:07:55.049] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:07:55.050] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 19:07:55.917] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 19:07:56.050] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 19:07:56.051] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 19:07:56.051] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 19:07:56.148] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 19:07:56.156] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 19:07:56.163] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:07:56.740] [info]  [GatewaySocket] [READY] took 691ms, as 72bc5ea6eef9a0ef5052268cc72e9adb
+[2024-11-14 19:07:56.751] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 19:07:56.759] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 19:07:56.767] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 19:07:56.822] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 773ms
+[2024-11-14 19:07:57.089] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 19:07:57.365] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:07:59.466] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=1' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 19:07:59.476] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 19:08:01.534] [info]  [MessageActionCreators] Fetching messages for 635625523304857610 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 19:08:01.580] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/635625523304857610
+[2024-11-14 19:08:02.155] [info]  [MessageActionCreators] Fetched 1 messages for 635625523304857610 isBefore:false isAfter:false
+[2024-11-14 19:08:02.162] [info]  [ChannelMessages] loadComplete: resetting state for channelId=635625523304857610, sending.length=0
+[2024-11-14 19:08:02.175] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-14 19:08:02.198] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:08:02.529] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-14 19:08:08.548] [info]  [MessageActionCreators] Fetching messages for 761279800312332328 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 19:08:08.595] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-14 19:08:08.929] [info]  [MessageActionCreators] Fetched 50 messages for 761279800312332328 isBefore:false isAfter:false
+[2024-11-14 19:08:08.943] [info]  [ChannelMessages] loadComplete: resetting state for channelId=761279800312332328, sending.length=0
+[2024-11-14 19:08:12.453] [error] Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22
+[2024-11-14 19:35:32.110] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:35:32.714] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 19:35:32.786] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:35:32.787] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:35:33.314] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 19:35:33.487] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 19:35:33.662] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 19:35:34.665] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 19:35:34.685] [info]  [FAST CONNECT] connected in 1968ms
+[2024-11-14 19:35:34.692] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:35:34.693] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 19:35:34.962] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:35:34.964] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:35:35.362] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 19:35:35.521] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 19:35:35.523] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 19:35:35.524] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 19:35:35.599] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 19:35:35.616] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 19:35:35.627] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:35:36.022] [info]  [GatewaySocket] [READY] took 502ms, as b83a463d7410827a3d8aad46cf6335a7
+[2024-11-14 19:35:36.032] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 19:35:36.040] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 19:35:36.048] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 19:35:36.078] [info]  [MessageActionCreators] Fetching messages for 761279800312332328 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 19:35:36.100] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 579ms
+[2024-11-14 19:35:36.368] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 19:35:36.708] [info]  [MessageActionCreators] Fetched 50 messages for 761279800312332328 isBefore:false isAfter:false
+[2024-11-14 19:35:36.733] [info]  [ChannelMessages] loadComplete: resetting state for channelId=761279800312332328, sending.length=0
+[2024-11-14 19:35:36.835] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 19:35:38.746] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=7' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 19:35:38.753] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 19:35:42.991] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-14 19:35:42.992] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-14 20:04:19.753] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:04:20.369] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 20:04:20.434] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:04:20.435] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:04:20.977] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 20:04:21.146] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 20:04:21.310] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 20:04:22.296] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 20:04:22.348] [info]  [FAST CONNECT] connected in 1975ms
+[2024-11-14 20:04:22.352] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:04:22.354] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 20:04:22.372] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:04:22.376] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:04:23.023] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 20:04:23.145] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 20:04:23.146] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 20:04:23.146] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 20:04:23.253] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 20:04:23.273] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 20:04:23.278] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:04:23.870] [info]  [GatewaySocket] [READY] took 725ms, as fd12016d6c557120dd5be701722d6068
+[2024-11-14 20:04:23.880] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 20:04:23.887] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 20:04:23.897] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 20:04:23.941] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 797ms
+[2024-11-14 20:04:24.198] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 20:04:24.385] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:04:26.516] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=0' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 20:04:26.523] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 20:38:10.382] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:38:11.098] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 20:38:11.218] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:38:11.226] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:38:11.785] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 20:38:11.962] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 20:38:12.151] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 20:38:13.194] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 20:38:13.222] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/c1b53be672aac192a996.woff2
+[2024-11-14 20:38:13.238] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:38:13.239] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 20:38:13.562] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:38:13.568] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:38:13.806] [info]  [FAST CONNECT] connected in 2706ms
+[2024-11-14 20:38:13.974] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 20:38:14.170] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 20:38:14.171] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 20:38:14.173] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 20:38:14.218] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/1222195a37d6dd10994e.woff2
+[2024-11-14 20:38:14.219] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/ecff74bf4394e6e58dd1.woff2
+[2024-11-14 20:38:14.254] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 20:38:14.263] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 20:38:14.276] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:38:26.840] [info]  [GatewaySocket] [READY] took 12671ms, as 8f18b7161f290ab717fa7c0689c46c10
+[2024-11-14 20:38:26.851] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 20:38:26.860] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 20:38:26.869] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 20:38:26.925] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 12756ms
+[2024-11-14 20:38:27.096] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/6df261c61450af10af2f.woff2
+[2024-11-14 20:38:27.214] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 20:38:27.503] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:38:29.869] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=7' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 20:38:29.876] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 20:38:40.637] [info]  [MessageActionCreators] Fetching messages for 761279800312332328 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 20:38:40.658] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:38:40.681] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-14 20:38:41.069] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/b8cfca9c9b10ffcc6e53.woff2
+[2024-11-14 20:38:41.874] [info]  [MessageActionCreators] Fetched 50 messages for 761279800312332328 isBefore:false isAfter:false
+[2024-11-14 20:38:41.889] [info]  [ChannelMessages] loadComplete: resetting state for channelId=761279800312332328, sending.length=0
+[2024-11-14 20:38:42.183] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/5757cfda6ca63444c894.woff2
+[2024-11-14 20:38:43.702] [error] Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22
+[2024-11-14 20:38:44.339] [error] Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22
+[2024-11-14 20:40:27.471] [info]  [MessageActionCreators] Fetching messages for 1207461996795138060 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 20:40:27.548] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-14 20:40:28.213] [info]  [MessageActionCreators] Fetched 46 messages for 1207461996795138060 isBefore:false isAfter:false
+[2024-11-14 20:40:28.218] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207461996795138060, sending.length=0
+[2024-11-14 20:40:28.475] [info]  Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://discordapp.com/assets/6daadfe6e5f14c9213b7.woff2
+[2024-11-14 20:40:29.129] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:40:29.131] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:43:00.164] [info]  [GatewaySocket] [WS CLOSED] (false, 1006, ) retrying in 1.94 seconds.
+[2024-11-14 20:43:02.110] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-b.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 20:43:02.557] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-b.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 447 ms
+[2024-11-14 20:43:02.558] [info]  [GatewaySocket] [RESUME] resuming session 8f18b7161f290ab717fa7c0689c46c10, seq: 24
+[2024-11-14 20:43:02.813] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2024-11-14 20:43:02.815] [info]  [GatewaySocket] [RESUMED] took 706ms, replayed 0 events, new seq: 25
+[2024-11-14 20:43:06.722] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-14 20:43:06.723] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-14 20:53:28.405] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:53:29.052] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 20:53:29.123] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:53:29.124] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:53:29.654] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 20:53:29.822] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 20:53:30.001] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 20:53:31.016] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 20:53:31.040] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:53:31.043] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 20:53:31.279] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:53:31.281] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:53:31.756] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 20:53:31.944] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 20:53:31.945] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 20:53:31.972] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 20:53:32.118] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 20:53:32.152] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:53:34.576] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 2634 ms
+[2024-11-14 20:53:34.929] [info]  [GatewaySocket] [READY] took 2987ms, as 2640fa4d5378674b51b1c93bd013aa32
+[2024-11-14 20:53:34.945] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 20:53:34.954] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 20:53:34.966] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 20:53:35.005] [info]  [MessageActionCreators] Fetching messages for 1207461996795138060 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 20:53:35.063] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 3120ms
+[2024-11-14 20:53:35.415] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 20:53:35.512] [info]  [MessageActionCreators] Fetched 46 messages for 1207461996795138060 isBefore:false isAfter:false
+[2024-11-14 20:53:35.531] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207461996795138060, sending.length=0
+[2024-11-14 20:53:35.723] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 20:53:37.858] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=10' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 20:53:37.865] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 21:10:15.634] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:16.269] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 21:10:16.333] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:16.334] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:16.879] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 21:10:17.055] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 21:10:17.242] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 21:10:18.253] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 21:10:18.294] [info]  [FAST CONNECT] connected in 2022ms
+[2024-11-14 21:10:18.306] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:18.310] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 21:10:18.325] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:18.328] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:18.984] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 21:10:19.116] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 21:10:19.116] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 21:10:19.117] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 21:10:19.220] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 21:10:19.246] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 21:10:19.250] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:19.561] [info]  [GatewaySocket] [READY] took 445ms, as 8f245af87915f6964f4891fb0a510abf
+[2024-11-14 21:10:19.570] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 21:10:19.579] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 21:10:19.586] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 21:10:19.634] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 518ms
+[2024-11-14 21:10:19.898] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 21:10:20.196] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:22.381] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=2' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 21:10:22.388] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 21:10:29.232] [info]  [MessageActionCreators] Fetching messages for 1207461996795138060 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 21:10:29.250] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:29.262] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-14 21:10:29.642] [info]  [MessageActionCreators] Fetched 46 messages for 1207461996795138060 isBefore:false isAfter:false
+[2024-11-14 21:10:29.657] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207461996795138060, sending.length=0
+[2024-11-14 21:10:30.506] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:30.507] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:10:30.630] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-14 21:10:30.631] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-14 21:10:37.060] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-14 21:10:38.012] [info]  [MessageActionCreators] Fetching messages for 761279800312332328 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 21:10:38.045] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-14 21:10:38.451] [info]  [MessageActionCreators] Fetched 50 messages for 761279800312332328 isBefore:false isAfter:false
+[2024-11-14 21:10:38.459] [info]  [ChannelMessages] loadComplete: resetting state for channelId=761279800312332328, sending.length=0
+[2024-11-14 21:10:39.291] [error] Uncaught (in promise) AbortError: The play() request was interrupted by a new load request. https://goo.gl/LdLk22
+[2024-11-14 21:10:41.299] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-14 21:10:45.906] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-14 21:11:32.246] [info]  [WindowVisibilityVideoManager] Incoming video enabled changed, incomingVideoEnabled = false
+[2024-11-14 21:15:19.139] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:15:19.761] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 21:15:20.360] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 21:15:20.537] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 21:15:20.714] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 21:15:21.723] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 21:15:21.762] [info]  [FAST CONNECT] connected in 1999ms
+[2024-11-14 21:15:21.766] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:15:21.768] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 21:15:22.310] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 21:15:22.470] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 21:15:22.471] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 21:15:22.472] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 21:15:22.511] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 21:15:22.560] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 21:15:22.574] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:15:22.848] [info]  [GatewaySocket] [READY] took 379ms, as 8c3249fcff3e72c664ce43643e54cf64
+[2024-11-14 21:15:22.859] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 21:15:22.865] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 21:15:22.875] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 21:15:22.903] [info]  [MessageActionCreators] Fetching messages for 1207461996795138060 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 21:15:22.927] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 458ms
+[2024-11-14 21:15:23.190] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 21:15:23.435] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 21:15:24.425] [info]  [MessageActionCreators] Fetched 46 messages for 1207461996795138060 isBefore:false isAfter:false
+[2024-11-14 21:15:24.437] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207461996795138060, sending.length=0
+[2024-11-14 21:15:25.542] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=3' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 21:15:25.549] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 21:15:31.029] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-14 21:15:31.030] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-14 22:15:37.706] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:15:38.326] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 22:15:38.398] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:15:38.399] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:15:38.923] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 22:15:39.095] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 22:15:39.275] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 22:15:39.309] [info]  [FAST CONNECT] connected in 982ms
+[2024-11-14 22:15:40.277] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 22:15:40.331] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:15:40.333] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 22:15:40.348] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:15:40.349] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:15:41.004] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 22:15:41.130] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 22:15:41.131] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 22:15:41.132] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 22:15:41.231] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 22:15:41.255] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 22:15:41.259] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:15:42.034] [info]  [GatewaySocket] [READY] took 903ms, as eb632ae4488840135a8f0d39001960bd
+[2024-11-14 22:15:42.046] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 22:15:42.056] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 22:15:42.064] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 22:15:42.109] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 979ms
+[2024-11-14 22:15:42.362] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 22:15:42.631] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:15:44.688] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=3' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 22:15:44.697] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 22:18:04.447] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:18:04.999] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 22:18:05.075] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:18:05.076] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:18:05.572] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 22:18:05.722] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 22:18:05.865] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 22:18:05.908] [info]  [FAST CONNECT] connected in 910ms
+[2024-11-14 22:18:06.800] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 22:18:06.856] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:18:06.857] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 22:18:06.872] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:18:06.873] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:18:07.525] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 22:18:07.668] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 22:18:07.668] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 22:18:07.669] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 0 ms
+[2024-11-14 22:18:07.773] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 22:18:07.782] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 22:18:07.790] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:18:08.257] [info]  [GatewaySocket] [READY] took 589ms, as 50fb14fc128676e50aa6063b7b0781a4
+[2024-11-14 22:18:08.268] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 22:18:08.275] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 22:18:08.286] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 22:18:08.335] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 667ms
+[2024-11-14 22:18:08.669] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 22:18:08.896] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:18:11.005] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=3' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 22:18:11.013] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 22:18:29.305] [info]  [Routing/Utils] transitionTo - Transitioning to /shop
+[2024-11-14 22:18:29.471] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Updating userContent with delay 0
+[2024-11-14 22:18:29.476] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Scheduling save from markDirty
+[2024-11-14 22:18:29.483] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Persisting proto
+[2024-11-14 22:18:29.708] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Updating userContent with delay 0
+[2024-11-14 22:18:29.896] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Updating userContent with delay 0
+[2024-11-14 22:18:29.898] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Scheduling save from markDirty
+[2024-11-14 22:18:29.904] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Persisting proto
+[2024-11-14 22:18:29.977] [info]  [discord_protos.discord_users.v1.PreloadedUserSettings] Updating userContent with delay 0
+[2024-11-14 22:20:17.808] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:20:18.445] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 22:20:19.055] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 22:20:18.524] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 22:20:18.759] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 22:20:19.823] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 22:20:19.868] [info]  [FAST CONNECT] connected in 1420ms
+[2024-11-14 22:20:19.872] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:20:19.874] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 22:20:20.429] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 22:20:20.597] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 22:20:20.597] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 22:20:20.598] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 22:20:20.630] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 22:20:20.637] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 22:20:20.689] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:20:21.005] [info]  [GatewaySocket] [READY] took 412ms, as fdd09aa3822356a8e3997e81e2234c86
+[2024-11-14 22:20:21.017] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 22:20:21.024] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 22:20:21.035] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 22:20:21.090] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 498ms
+[2024-11-14 22:20:21.344] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 22:20:21.614] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:20:23.746] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=4' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 22:20:23.752] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 22:32:53.427] [info]  [Routing/Utils] transitionTo - Transitioning to /shop
+[2024-11-14 22:32:57.305] [info]  [MessageActionCreators] Fetching messages for 1207461996795138060 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 22:32:57.327] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:32:57.368] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-14 22:32:57.761] [info]  [MessageActionCreators] Fetched 46 messages for 1207461996795138060 isBefore:false isAfter:false
+[2024-11-14 22:32:57.774] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207461996795138060, sending.length=0
+[2024-11-14 22:32:58.660] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:32:58.663] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:37:10.602] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-14 22:37:11.741] [info]  [MessageActionCreators] Fetching messages for 761279800312332328 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 22:37:11.781] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-14 22:37:13.501] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-14 22:37:13.568] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-14 22:37:13.689] [info]  [MessageActionCreators] Fetched 50 messages for 761279800312332328 isBefore:false isAfter:false
+[2024-11-14 22:37:13.710] [info]  [ChannelMessages] loadComplete: resetting state for channelId=761279800312332328, sending.length=0
+[2024-11-14 22:37:18.530] [error] Uncaught (in promise) AbortError: The play() request was interrupted by a call to pause(). https://goo.gl/LdLk22
+[2024-11-14 22:53:36.177] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:53:36.795] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 22:53:36.860] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:53:36.865] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:53:37.391] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 22:53:37.553] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 22:53:37.734] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 22:53:37.772] [info]  [FAST CONNECT] connected in 973ms
+[2024-11-14 22:53:38.743] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 22:53:38.796] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:53:38.797] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 22:53:38.852] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:53:38.854] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:53:39.473] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 22:53:39.595] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 22:53:39.595] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 22:53:39.596] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 22:53:39.713] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 22:53:39.719] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 22:53:39.726] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:53:40.208] [info]  [GatewaySocket] [READY] took 613ms, as 6d092d038d4d7f0d876488f44810ca02
+[2024-11-14 22:53:40.219] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 22:53:40.227] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 22:53:40.237] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 22:53:40.266] [info]  [MessageActionCreators] Fetching messages for 761279800312332328 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 22:53:40.292] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 698ms
+[2024-11-14 22:53:40.553] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 22:53:40.762] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:53:40.765] [info]  [MessageActionCreators] Fetched 50 messages for 761279800312332328 isBefore:false isAfter:false
+[2024-11-14 22:53:40.780] [info]  [ChannelMessages] loadComplete: resetting state for channelId=761279800312332328, sending.length=0
+[2024-11-14 22:53:42.833] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=10' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 22:53:42.840] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 22:53:49.740] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-14 22:53:49.741] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-14 22:58:57.513] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:58:58.140] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 22:58:58.214] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:58:58.216] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:58:58.755] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 22:58:58.932] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 22:58:59.119] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 22:59:00.003] [info]  [FAST CONNECT] connected in 1862ms
+[2024-11-14 22:59:00.112] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 22:59:00.168] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:59:00.169] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 22:59:00.189] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:59:00.190] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:59:00.857] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 22:59:00.968] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 22:59:00.968] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 22:59:00.969] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 22:59:01.039] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 22:59:01.044] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 22:59:01.059] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:59:01.463] [info]  [GatewaySocket] [READY] took 496ms, as 8fb1a4530cde1626814ea89ec2c427bc
+[2024-11-14 22:59:01.472] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 22:59:01.479] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 22:59:01.487] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 22:59:01.529] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 562ms
+[2024-11-14 22:59:01.768] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 22:59:01.922] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:59:04.071] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=11' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 22:59:04.087] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 22:59:06.395] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-14 22:59:06.396] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-14 22:59:09.172] [info]  [MessageActionCreators] Fetching messages for 1207461996795138060 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 22:59:09.191] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:59:09.219] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-14 22:59:09.618] [info]  [MessageActionCreators] Fetched 46 messages for 1207461996795138060 isBefore:false isAfter:false
+[2024-11-14 22:59:09.627] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207461996795138060, sending.length=0
+[2024-11-14 22:59:10.064] [info]  [MessageActionCreators] Fetching messages for 761279800312332328 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 22:59:10.118] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-14 22:59:10.415] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-14 22:59:10.975] [info]  [MessageActionCreators] Fetched 50 messages for 761279800312332328 isBefore:false isAfter:false
+[2024-11-14 22:59:10.994] [info]  [ChannelMessages] loadComplete: resetting state for channelId=761279800312332328, sending.length=0
+[2024-11-14 22:59:11.312] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 22:59:11.312] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:07:12.439] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:07:13.028] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 23:07:13.592] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 23:07:13.738] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 23:07:13.915] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 23:07:14.856] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 23:07:14.903] [info]  [FAST CONNECT] connected in 1872ms
+[2024-11-14 23:07:14.907] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:07:14.912] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 23:07:15.498] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 23:07:15.657] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 23:07:15.657] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 23:07:15.658] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 23:07:15.694] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 23:07:15.701] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 23:07:15.750] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:07:16.244] [info]  [GatewaySocket] [READY] took 587ms, as f3f974a533d9971901a282f826f4df87
+[2024-11-14 23:07:16.253] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 23:07:16.262] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 23:07:16.271] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 23:07:16.310] [info]  [MessageActionCreators] Fetching messages for 1207461996795138060 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-14 23:07:16.336] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 680ms
+[2024-11-14 23:07:16.596] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 23:07:16.780] [info]  [MessageActionCreators] Fetched 46 messages for 1207461996795138060 isBefore:false isAfter:false
+[2024-11-14 23:07:16.811] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207461996795138060, sending.length=0
+[2024-11-14 23:07:16.821] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:07:18.920] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=1' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 23:07:18.928] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 23:07:27.557] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-14 23:07:27.557] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-14 23:09:04.403] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:09:05.049] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 23:09:05.652] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 23:09:05.813] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 23:09:05.970] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 23:09:06.003] [info]  [FAST CONNECT] connected in 953ms
+[2024-11-14 23:09:06.940] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 23:09:06.965] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:09:06.969] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 23:09:07.542] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 23:09:07.674] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 23:09:07.675] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 23:09:07.676] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 23:09:07.782] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 23:09:07.803] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 23:09:07.812] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:09:08.043] [info]  [GatewaySocket] [READY] took 370ms, as 09637baf66e685e915048c3e2d9a6fba
+[2024-11-14 23:09:08.054] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 23:09:08.061] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 23:09:08.071] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 23:09:08.116] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 442ms
+[2024-11-14 23:09:08.373] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 23:09:08.747] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:09:10.848] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=1' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 23:09:10.856] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-14 23:09:16.858] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-14 23:09:16.858] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-14 23:11:16.726] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:11:17.740] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-14 23:11:17.867] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:11:17.868] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:11:18.739] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-14 23:11:18.951] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344389, Version Hash: 92362751f5e578e1ad62e4c27e8f1bef2f140e73
+[2024-11-14 23:11:19.156] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-14 23:11:19.207] [info]  [FAST CONNECT] connected in 1466ms
+[2024-11-14 23:11:20.178] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-14 23:11:20.225] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:11:20.230] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-14 23:11:20.439] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:11:20.440] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:11:20.864] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-14 23:11:21.032] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-14 23:11:21.032] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-14 23:11:21.033] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-14 23:11:21.107] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-14 23:11:21.130] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-14 23:11:21.140] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:11:21.484] [info]  [GatewaySocket] [READY] took 452ms, as 381b4760c15cd5b9c4de6c769d22c7ef
+[2024-11-14 23:11:21.493] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-14 23:11:21.500] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-14 23:11:21.508] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-14 23:11:21.551] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 519ms
+[2024-11-14 23:11:21.829] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-14 23:11:22.059] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-14 23:11:24.412] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=2' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-14 23:11:24.419] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-15 00:26:34.660] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:26:35.380] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-15 00:26:35.442] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:26:35.443] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:26:36.894] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-15 00:26:37.212] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344613, Version Hash: 5ac3c2d7e8946c57580bee34ce46500064336e0c
+[2024-11-15 00:26:37.684] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-15 00:26:38.711] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-15 00:26:38.777] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:26:38.778] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-15 00:26:39.058] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:26:39.059] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:26:39.531] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-15 00:26:39.808] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-15 00:26:39.809] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-15 00:26:39.831] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-15 00:26:39.850] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-15 00:26:39.875] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:26:42.137] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 2328 ms
+[2024-11-15 00:26:42.698] [info]  [GatewaySocket] [READY] took 2890ms, as 190c70ec3d8faf2090c89c0ce79d782e
+[2024-11-15 00:26:42.709] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-15 00:26:42.716] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-15 00:26:42.725] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-15 00:26:42.771] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 2962ms
+[2024-11-15 00:26:43.036] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-15 00:26:43.178] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:26:45.303] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=5' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-15 00:26:45.310] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-15 00:26:45.613] [info]  [RunningGameStore] games [object Object]
+[2024-11-15 00:27:39.130] [info]  [MessageActionCreators] Fetching messages for 1207487562621521960 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-15 00:27:39.146] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:27:39.664] [info]  [MessageActionCreators] Fetched 12 messages for 1207487562621521960 isBefore:false isAfter:false
+[2024-11-15 00:27:39.676] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207487562621521960, sending.length=0
+[2024-11-15 00:27:42.671] [info]  [MessageActionCreators] Fetching messages for 1207461996795138060 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-15 00:27:42.726] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-15 00:27:43.030] [info]  [MessageActionCreators] Fetched 46 messages for 1207461996795138060 isBefore:false isAfter:false
+[2024-11-15 00:27:43.034] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207461996795138060, sending.length=0
+[2024-11-15 00:27:43.958] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:27:43.959] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 00:28:00.757] [info]  [RunningGameStore] games [object Object]
+[2024-11-15 01:22:02.413] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:22:03.018] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-15 01:22:03.124] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:22:03.128] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:22:03.435] [info]  [FAST CONNECT] connected in 417ms
+[2024-11-15 01:22:04.359] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-15 01:22:04.543] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 344613, Version Hash: 5ac3c2d7e8946c57580bee34ce46500064336e0c
+[2024-11-15 01:22:04.737] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-15 01:22:06.120] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-15 01:22:06.166] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:22:06.169] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-15 01:22:06.400] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:22:06.402] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:22:06.932] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-15 01:22:07.118] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-15 01:22:07.119] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-15 01:22:07.120] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 1 ms
+[2024-11-15 01:22:07.213] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-15 01:22:07.262] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-15 01:22:07.274] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:22:07.622] [info]  [GatewaySocket] [READY] took 511ms, as 94ad310ee2d466e72f9c9834c222866a
+[2024-11-15 01:22:07.633] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-15 01:22:07.636] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-15 01:22:07.639] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-15 01:22:07.654] [info]  [MessageActionCreators] Fetching messages for 1207461996795138060 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-15 01:22:07.671] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 560ms
+[2024-11-15 01:22:07.939] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-15 01:22:08.124] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:22:08.127] [info]  [MessageActionCreators] Fetched 46 messages for 1207461996795138060 isBefore:false isAfter:false
+[2024-11-15 01:22:08.144] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207461996795138060, sending.length=0
+[2024-11-15 01:22:10.176] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=4' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-15 01:22:10.180] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-15 01:22:14.646] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-15 01:22:14.647] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-15 01:22:16.801] [info]  [MessageActionCreators] Fetching messages for 1207487562621521960 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-15 01:22:16.814] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:22:17.236] [info]  [MessageActionCreators] Fetched 12 messages for 1207487562621521960 isBefore:false isAfter:false
+[2024-11-15 01:22:17.239] [info]  [ChannelMessages] loadComplete: resetting state for channelId=1207487562621521960, sending.length=0
+[2024-11-15 01:37:44.467] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/1207461995285184543/1207461996795138060
+[2024-11-15 01:37:45.622] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:37:45.623] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-15 01:37:53.059] [info]  [MessageActionCreators] Fetching messages for 761279800312332328 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-15 01:37:53.078] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-15 01:37:53.443] [info]  [MessageActionCreators] Fetched 50 messages for 761279800312332328 isBefore:false isAfter:false
+[2024-11-15 01:37:53.455] [info]  [ChannelMessages] loadComplete: resetting state for channelId=761279800312332328, sending.length=0
+[2024-11-16 01:04:15.955] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-16 01:04:18.529] [info]  [FAST CONNECT] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream, encoding: etf, version: 9
+[2024-11-16 01:04:18.864] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-16 01:04:18.870] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-16 01:04:20.726] [info]  [FAST CONNECT] connected in 2195ms
+[2024-11-16 01:04:24.649] [info]  Initializing voice engine with audio subsystem: standard
+[2024-11-16 01:04:25.906] [info]  [default] [BUILD INFO] Release Channel: stable, Build Number: 345081, Version Hash: aaf3ed96b353fb1bb09290b3e0001df2e179de54
+[2024-11-16 01:04:27.758] [info]  [default] [NATIVE INFO] host 0.0.74, modules: discord_desktop_core: 1, discord_erlpack: 1, discord_spellcheck: 1, discord_utils: 1, discord_voice: 1, discord_zstd: 1, discord_krisp: 1, discord_game_utils: 1, discord_rpc: 1, build: null
+[2024-11-16 01:04:31.379] [error] [Spellchecker] sh is not a valid locale.
+[2024-11-16 01:04:31.636] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-16 01:04:31.650] [info]  [Spellchecker] Switching to en-US (available)
+[2024-11-16 01:04:32.680] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-16 01:04:32.682] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-16 01:04:36.500] [warn]  [CloudSyncUtils] CloudSync is not supported on this platform
+[2024-11-16 01:04:37.774] [info]  [RPCServer:WSS] Starting on 6463
+[2024-11-16 01:04:37.792] [info]  [RPCServer:IPC] Starting on /run/user/1000/discord-ipc-0
+[2024-11-16 01:04:37.996] [info]  [GatewaySocket] [CONNECT] wss://gateway.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-16 01:04:37.997] [info]  [GatewaySocket] [FAST CONNECT] successfully took over websocket, state: [object Object]
+[2024-11-16 01:04:37.999] [info]  [GatewaySocket] [CONNECTED] wss://gateway.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 2 ms
+[2024-11-16 01:04:40.146] [info]  [GatewaySocket] [READY] took 2151ms, as 2aa0427c7540df22aaf3e71d10b31e2c
+[2024-11-16 01:04:40.179] [info]  [Flux] Dispatching CONNECTION_OPEN
+[2024-11-16 01:04:40.204] [info]  [DatabaseManager] removing database (user: 1207460425604796469, database: undefined)
+[2024-11-16 01:04:40.232] [warn]  [NativeDispatchUtils] Tried getting Dispatch instance before instantiated
+[2024-11-16 01:04:40.330] [info]  [MessageActionCreators] Fetching messages for 761279800312332328 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-16 01:04:40.402] [info]  [GatewaySocket] [READY_SUPPLEMENTAL] took 2407ms
+[2024-11-16 01:04:41.626] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Loading proto
+[2024-11-16 01:04:41.801] [info]  [MessageActionCreators] Fetched 50 messages for 761279800312332328 isBefore:false isAfter:false
+[2024-11-16 01:04:41.865] [info]  [ChannelMessages] loadComplete: resetting state for channelId=761279800312332328, sending.length=0
+[2024-11-16 01:04:42.638] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-16 01:04:44.481] [error] Access to XMLHttpRequest at 'https://cdn.discordapp.com/changelogs/config_0.json?x=0' from origin 'https://discordapp.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.
+[2024-11-16 01:04:44.483] [error] Uncaught (in promise) Error: Request has been terminated
+Possible causes: the network is offline, Origin is not allowed by Access-Control-Allow-Origin, the page is being unloaded, etc.
+[2024-11-16 01:04:45.330] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:04:51.582] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-16 01:04:51.584] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-16 01:04:55.918] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/761279800312332328
+[2024-11-16 01:05:00.020] [error] Unrecognized Content-Security-Policy directive 'prefetch-src'.
+[2024-11-16 01:05:07.416] [info]  [MessageActionCreators] Fetching messages for 635625954219261982 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-16 01:05:07.473] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/635625954219261982
+[2024-11-16 01:05:08.103] [info]  [MessageActionCreators] Fetched 50 messages for 635625954219261982 isBefore:false isAfter:false
+[2024-11-16 01:05:08.125] [info]  [ChannelMessages] loadComplete: resetting state for channelId=635625954219261982, sending.length=0
+[2024-11-16 01:05:09.094] [info]  [MessageActionCreators] Fetching messages for 635625925748457482 between undefined and undefined. jump={"jumpType":"ANIMATED"}
+[2024-11-16 01:05:09.169] [info]  [Routing/Utils] transitionTo - Transitioning to /channels/635612648934735892/635625925748457482
+[2024-11-16 01:05:09.884] [info]  [MessageActionCreators] Fetched 50 messages for 635625925748457482 isBefore:false isAfter:false
+[2024-11-16 01:05:09.895] [info]  [ChannelMessages] loadComplete: resetting state for channelId=635625925748457482, sending.length=0
+[2024-11-16 01:05:30.470] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:05:40.525] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:05:50.545] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:06:10.572] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:06:15.582] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:06:20.599] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:06:26.340] [info]  [WindowVisibilityVideoManager] Incoming video enabled changed, incomingVideoEnabled = false
+[2024-11-16 01:07:15.762] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:07:20.788] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:07:25.818] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:07:35.866] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:07:40.888] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:08:56.154] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:09:01.185] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:09:06.194] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:09:11.211] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:09:51.359] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:10:06.431] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:10:11.433] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:10:36.527] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:10:41.568] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:10:51.585] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:10:57.228] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:11:16.710] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:11:26.740] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:11:41.789] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:11:51.837] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:11:56.850] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:12:01.878] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:12:06.888] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:12:11.908] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:12:36.997] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:12:42.014] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:12:47.021] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:12:52.036] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:12:57.052] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:15:07.450] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:15:12.466] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:15:47.591] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:17:42.999] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:18:13.099] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:18:18.108] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:18:28.163] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:18:43.213] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:18:48.251] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:18:52.249] [info]  [GatewaySocket] [WS CLOSED] (false, 1006, ) retrying in 2.77 seconds.
+[2024-11-16 01:18:53.251] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:18:55.177] [info]  [GatewaySocket] [CONNECT] wss://gateway-us-east1-d.discord.gg, encoding: etf, version: 9, compression: zstd-stream
+[2024-11-16 01:18:55.671] [info]  [GatewaySocket] [CONNECTED] wss://gateway-us-east1-d.discord.gg/?encoding=etf&v=9&compress=zstd-stream in 495 ms
+[2024-11-16 01:18:55.673] [info]  [GatewaySocket] [RESUME] resuming session 2aa0427c7540df22aaf3e71d10b31e2c, seq: 124
+[2024-11-16 01:18:56.179] [info]  [Flux] Dispatching CONNECTION_RESUMED
+[2024-11-16 01:18:56.185] [info]  [GatewaySocket] [RESUMED] took 1010ms, replayed 0 events, new seq: 126
+[2024-11-16 01:18:58.268] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:19:03.303] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:19:04.334] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Scheduling save from markDirty
+[2024-11-16 01:19:04.337] [info]  [discord_protos.discord_users.v1.FrecencyUserSettings] Persisting proto
+[2024-11-16 01:19:08.317] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:19:13.332] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:19:18.371] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:19:28.386] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:19:38.431] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:19:43.439] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:21:33.788] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:21:38.786] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:21:48.819] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:22:08.890] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:22:13.898] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:22:18.929] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:22:23.937] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:23:44.197] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:24:04.271] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:24:14.303] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:24:19.319] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:24:29.351] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:24:39.392] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:24:44.444] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:24:49.430] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:24:54.450] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:24:59.498] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:25:04.504] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:29:00.246] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:30:35.619] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:30:55.685] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:31:50.862] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:31:55.876] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:33:26.142] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:33:31.159] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:33:36.177] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:34:26.342] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:34:31.360] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:34:56.431] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:35:41.564] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:35:46.579] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:35:56.595] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:36:01.617] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:37:46.993] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:37:52.024] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:37:57.031] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:38:07.077] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:38:12.086] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:39:02.263] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:39:17.318] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:39:22.328] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:39:27.341] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:40:07.458] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:40:17.524] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:42:27.952] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:44:13.286] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:44:18.301] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:44:33.352] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:44:38.364] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:44:43.382] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:44:48.399] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:44:53.420] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:46:28.772] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:46:58.869] [info]  [RunningGameStore] games [object Object]
+[2024-11-16 01:48:09.085] [info]  [RunningGameStore] games [object Object]

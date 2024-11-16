@@ -1,0 +1,6 @@
+2024/11/15-01:22:00.554 2fb5 Reusing MANIFEST /home/ahmed/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/15-01:22:00.567 2fb5 Recovering log #26
+2024/11/15-01:22:00.569 2fb5 Reusing old log /home/ahmed/.config/discord/Local Storage/leveldb/000026.log 
+2024/11/15-01:37:41.387 2fb6 Level-0 table #32: started
+2024/11/15-01:37:41.406 2fb6 Level-0 table #32: 835748 bytes OK
+2024/11/15-01:37:41.419 2fb6 Delete type=0 #26
